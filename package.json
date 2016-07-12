@@ -24,7 +24,7 @@
     "url": "https://github.com/panstav/is-referer-spammer-middleware/issues"
   },
   "dependencies": {
-    "@panstav/is-referrer-spammer": "0.0.3"
+    "@panstav/is-referrer-spammer": "0.0.4"
   },
   "devDependencies": {
     "expect.js": "0.3.1",
