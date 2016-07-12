@@ -1,6 +1,6 @@
 {
   "name": "@panstav/is-referrer-spammer-middleware",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An Express middleware to check and handle requests with a referrer that's on a spam blacklist",
   "main": "index.js",
   "scripts": {
