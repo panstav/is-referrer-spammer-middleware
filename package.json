@@ -1,0 +1,41 @@
+{
+  "name": "@panstav/is-referrer-spammer-middleware",
+  "version": "0.0.0",
+  "description": "An Express middleware to check and handle requests with a referrer that's on a spam blacklist",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "engines": {
+    "node": "4.4.7",
+    "npm": "2.15.8"
+  },
+  "author": {
+    "name": "Stav Geffen",
+    "email": "stavgeffen@gmail.com",
+    "url": "http://www.stav.io"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panstav/is-referer-spammer-middleware.git"
+  },
+  "bugs": {
+    "url": "https://github.com/panstav/is-referer-spammer-middleware/issues"
+  },
+  "dependencies": {
+    "@panstav/is-referrer-spammer": "0.0.3"
+  },
+  "devDependencies": {
+    "expect.js": "0.3.1",
+    "express": "4.14.0",
+    "mocha": "2.5.3",
+    "supertest": "1.2.0"
+  },
+  "keywords": [
+    "spam",
+    "referer",
+    "referral",
+    "middleware"
+  ]
+}
